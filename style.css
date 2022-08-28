@@ -1,0 +1,17 @@
+#foto{
+    background-color:grey;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 1%;
+    border-radius: 3%;
+}
+
+#card{
+    margin: 1%;
+}
+
+body{
+    background-color: lightgray;
+}
+
+
